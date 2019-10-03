@@ -15,6 +15,10 @@
 		"user4": {
 			"name": "Mahima",
 			"upvotes": 10
+		},
+		"user5": {
+			"name": "Shruti",
+			"upvotes": 50
 		}
 	}
 }

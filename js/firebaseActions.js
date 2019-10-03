@@ -77,7 +77,7 @@ function populateDropDown(userData) {
 	let select = document.getElementById("userName");
 	for(var user in userData) {
 		option = document.createElement( 'option' );
-	    option.value = option.text = userData[user].name;
+	    option.value = option.text = userData[user].name+"("+userData[user].upvotes+")";
 	    select.add( option );
 	}
 }
