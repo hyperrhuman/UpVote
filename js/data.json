@@ -1,0 +1,20 @@
+{
+	"users": {
+		"user1": {
+			"name": "Abhishek",
+			"upvotes": 30
+		},
+		"user2": {
+			"name": "Semonti",
+			"upvotes": 15
+		},
+		"user3": {
+			"name": "Niket",
+			"upvotes": 20
+		},
+		"user4": {
+			"name": "Mahima",
+			"upvotes": 10
+		}
+	}
+}
