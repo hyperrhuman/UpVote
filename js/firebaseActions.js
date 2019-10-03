@@ -52,7 +52,7 @@ function googleLogin() {
 	  }
 	  if(window.currentUser.name){
 
-		window.location = 'index.php'; //After successful login, user will be redirected to home.html
+		window.location = 'home.php'; //After successful login, user will be redirected to home.html
 		window.currentUser = window.currentUser.name ;
 	  }
 	});
